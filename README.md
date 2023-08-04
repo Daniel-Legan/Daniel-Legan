@@ -5,3 +5,5 @@ I recently relocated from Minneapolis, MN to Vienna, VA. As a software developer
 - 🔭 Open for work! [LinkedIn](https://www.linkedin.com/in/daniel-legan-365120241/)
 - 🌱 I’m currently learning: TypeScript, Python, AWS, and Advanced React
 - 🚧 Latest project: Wildlife Spotter; a Google Maps wildlife marker application
+
+![Codewars Rank](https://www.codewars.com/users/Daniel-Legan/badges/large)
